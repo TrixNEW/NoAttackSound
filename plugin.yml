@@ -1,0 +1,6 @@
+name: NoAttackSound
+main: trix\nas\Main
+version: 1.0-beta
+api: 5.0.0
+author: Trix
+description: Removal of attack/swinging sounds
